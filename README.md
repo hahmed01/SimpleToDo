@@ -4,7 +4,7 @@
 
 Submitted by: Haya Ahmed**
 
-Time spent: 5 hours spent in total
+Time spent: 6 hours spent in total
 
 ## User Stories
 
@@ -32,7 +32,14 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+**Describe any challenges encountered while building the app.**
+Challenges fulfilling the basic requirements:
+- One of the challenges I had was setting up the development environment, as the version used in the video lectures was an older version and there were some disrepencies with the version I was using.
+
+- Another challenge was that I am new to Java, and I had to learn its terminology as I was making the project.
+
+Challenges fulfilling the optional requirments:
+- In progress
 
 ## License
 
